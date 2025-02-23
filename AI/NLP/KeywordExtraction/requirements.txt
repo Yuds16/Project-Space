@@ -1,0 +1,5 @@
+spacy
+pytextrank
+keybert
+rake_nltk
+yake
